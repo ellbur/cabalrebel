@@ -53,3 +53,8 @@ Then run as you would normally for Python:
 
 And that should build and install your Haskell module.
 
+Motivation
+----------
+
+Why learn two build systems when you can learn just one?
+
