@@ -19,7 +19,7 @@ class Install(default_install):
         )
 
 setup(
-    name       = 'haskell-hangul',
+    name       = 'cabalrebel-basic-demo',
     version    = '0.123',
     install_requires = ['cabalrebel'],
     dependency_links = [
