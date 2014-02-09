@@ -3,7 +3,7 @@
 
 `cabalrebel` provides the following behavior:
 
-1. synthesizes `\*.cabal` and `Setup.hs` files.
+1. synthesizes `*.cabal` and `Setup.hs` files.
 
 2. Invokes `runghc` on `Setup.hs`
 
